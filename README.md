@@ -73,3 +73,8 @@ The collection bridges **empirical Earth Observation modeling** with **creative 
    ```bash
    git clone [https://github.com/saraaharon/30-day-map-challenge-2026.git](https://github.com/saraaharon/30-day-map-challenge-2026.git)
    cd 30-day-map-challenge-2026
+
+👩‍🚀 Author
+Sara Aharon — Geospatial Analyst ✧ Earth Observation
+
+🌐 Portfolio: saraaharon.github.io
