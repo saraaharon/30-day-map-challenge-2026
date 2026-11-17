@@ -40,7 +40,7 @@ The collection bridges **empirical Earth Observation modeling** with **creative 
 | **04** | **Clusters** | Spatial Clustering & Urban Distribution | `scipy`, `geopandas`, `imageio` | [`/day-04-clusters`](./day-04-clusters) |
 | **05** | **Sight** | Moldoveanu Peak Line-of-Sight Analysis (Copernicus DEM) | `rasterio`, `numpy`, `imageio` | [`/day-05-sight`](./day-05-sight) |
 | **06** | **Vintage** | 80s Retro Synthwave Cartography | `geopandas`, `matplotlib` | [`/day-06-vintage`](./day-06-vintage) |
-| **07** | **10 Minute Map** | Rapid Volcanic Terrain Modeling | `rasterio`, `numpy`, `imageio` | [`/day-07-volcanoes`](./day-07-10minutemap) |
+| **07** | **10 Minute Map** | Rapid Volcanic Terrain Modeling | `rasterio`, `numpy`, `imageio` | [`/day-07-10minutemap`](./day-07-10minutemap) |
 | **08** | **Utopia** | Floating Metropolis & Worldbuilding | `numpy`, `matplotlib`, `imageio` | [`/day-08-utopia`](./day-08-utopia) |
 | **09** | **Urban - Rural** | Focșani Urban-Rural Transition Dynamics | `geopandas`, `imageio` | [`/day-09-urban-rural`](./day-09-urban-rural) |
 | **10** | **Prompting Only** | AI-Assisted Generative Cartography | `matplotlib`, `imageio` | [`/day-10-prompting`](./day-10-prompting) |
