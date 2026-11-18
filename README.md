@@ -17,7 +17,7 @@
 
 This repository houses the Python scripts, spatial workflows, and visual outputs created for the **November 2026 #30DayMapChallenge**. 
 
-The collection bridges **empirical Earth Observation modeling** with **creative data visualization**—ranging from Copernicus DEM viewsheds and routing networks to synthwave posters, 3D volcano simulations, and multi-sensory cartography.
+The collection bridges **empirical Earth Observation modeling** with **creative data visualization**, ranging from Copernicus DEM viewsheds and routing networks to synthwave posters, 3D volcano simulations, and multi-sensory cartography.
 
 ---
 
@@ -52,7 +52,7 @@ The collection bridges **empirical Earth Observation modeling** with **creative 
 | **16** | **Colab** | Collaborative Earth Engine Workflows | `earthengine-api`, `imageio` | [`/day-16-colab`](./day-16-colab) |
 | **17** | **Light & Dark** | Solar Illumination & Terminator Mapping | `rasterio`, `numpy`, `imageio` | [`/day-17-light-dark`](./day-17-light-dark) |
 | **18** | **Null** | Handling Missing Data & Void Fill Vectors | `geopandas`, `imageio` | [`/day-18-null`](./day-18-null) |
-| **19** | **The Smell of Vrancea** | Olfactory Landscape & Atmospheric Modeling | `geopandas`, `numpy`, `imageio` | [`/day-19-smell`](./day-19-smell) |
+| **19** | **Senses: Smell** | Olfactory Landscape & Atmospheric Modeling | `geopandas`, `numpy`, `imageio` | [`/day-19-smell`](./day-19-smell) |
 | **20** | **Hexagons** | H3 Hierarchical Spatial Indexing | `geopandas`, `scipy`, `imageio` | [`/day-20-hexagons`](./day-20-hexagons) |
 | **21** | **Open Street Map** | OSM Network Extraction & Topological Layers | `geopandas`, `requests`, `imageio` | [`/day-21-osm`](./day-21-osm) |
 | **22** | **Projections** | Custom CRS & Coordinate Transformation | `pyproj`, `geopandas`, `imageio` | [`/day-22-projections`](./day-22-projections) |
